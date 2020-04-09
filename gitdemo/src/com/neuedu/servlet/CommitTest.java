@@ -2,6 +2,6 @@ package com.neuedu.servlet;
 
 public class CommitTest {
   
-		//ÕâÀïÊÇeclipseµÚÒ»´ÎĞŞ¸Ä
+		//ç¬¬ä¸€æ¬¡
 
 }
